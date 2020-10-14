@@ -1,10 +1,19 @@
+/*
+Alumno: Armenta Peña José Francisco
+No. Control: 18212146
+Organización: Instituto Tecnológico de Tijuana
+Materia: Lenguajez de Interfaz
+Programa C++
+*/
+
+/*15. Imprimir la tabla de sumar hasta 12 + 12 */
+ 
+
 #include <iostream>
 #include <math.h>
 
 using namespace std;
 
-/*15. Imprimir la tabla de sumar hasta 12 + 12 */
- 
 
 
 
