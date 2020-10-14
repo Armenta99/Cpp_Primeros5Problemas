@@ -1,7 +1,17 @@
+/*
+Alumno: Armenta Peña José Francisco
+No. Control: 18212146
+Organización: Instituto Tecnológico de Tijuana
+Materia: Lenguajez de Interfaz
+Programa C++
+*/
+
+
+/*11. Introducir un conjunto de 25 números. Determinar la cntidad de números positivos y negativos del conjunto.*/
+
 #include <iostream>
 using namespace std;
 
-/*11. Introducir un conjunto de 25 números. Determinar la cntidad de números positivos y negativos del conjunto.*/
 
 
 int main()
