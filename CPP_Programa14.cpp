@@ -1,9 +1,18 @@
+/*
+Alumno: Armenta Peña José Francisco
+No. Control: 18212146
+Organización: Instituto Tecnológico de Tijuana
+Materia: Lenguajez de Interfaz
+Programa C++
+*/
+
+/*14. Determinar cuál cantidad es mayor: 3pow(75) o 2pow(100) */
+
+
 #include <iostream>
 #include <math.h>
 
 using namespace std;
-
-/*14. Determinar cuál cantidad es mayor: 3pow(75) o 2pow(100) */
 
 
 
