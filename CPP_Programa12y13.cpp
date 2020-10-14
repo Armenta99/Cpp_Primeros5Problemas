@@ -1,7 +1,17 @@
-#include <iostream>
-using namespace std;
+/*
+Alumno: Armenta Peña José Francisco
+No. Control: 18212146
+Organización: Instituto Tecnológico de Tijuana
+Materia: Lenguajez de Interfaz
+Programa C++
+*/
+
 
 //Combine 2 problemas ya que ambos ocupaban identificar un número en un conjunto de números.
+
+
+#include <iostream>
+using namespace std;
 
 
 /*
